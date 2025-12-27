@@ -13,7 +13,8 @@ Example Usage :
 
 ## To run:
 
-!> Tested on linux w/ x11 only.
+> [!WARNING] 
+> Tested on linux w/ x11 only.
 
 1. Install the dependencies from requirements.txt
 ```bash
@@ -46,7 +47,8 @@ It took me ~45min to render on my Ryzen 5 5500U, quite an CPU intensive work. I 
 can be optimized but I haven't looked into it.
 
 ### Doom
-!> Doesn't work with wayland.
+> [!WARNING] 
+> Doesn't work with wayland.
 
 3. Download Doom and DOSBOX
 4. Change config to make sure input capture is correct
